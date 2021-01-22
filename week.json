@@ -3,7 +3,7 @@
     "label": "Today",
     "date": "2021-1-22",
     "unit": "kWh",
-    "unitOfConsumptionByDay": {
+    "consumptionByDay": {
       "mon": 122.00,
       "tue": 120.50,
       "wed": 130.85,
@@ -16,7 +16,7 @@
   "lated": {
     "label": "7 days ago",
     "date": "2021-1-15",
-    "unitOfConsumptionByDay": "kWh",
+    "unit": "kWh",
     "consumptionByDay": {
       "mon": 122.00,
       "tue": 120.40,
