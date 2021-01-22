@@ -1,5 +1,5 @@
 {
-  "today": {
+  "presentValue": {
     "label": "Today",
     "date": "2021-1-22",
     "unit": "kWh",
@@ -13,7 +13,7 @@
       "sun": 130.85
     }
   },
-  "lated": {
+  "pastValue": {
     "label": "7 days ago",
     "date": "2021-1-15",
     "unit": "kWh",
