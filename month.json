@@ -1,0 +1,21 @@
+{
+  "powerConsumption": {
+    "unit": "kWh",
+    "value": 124401
+  },
+  "highestConsumption": {
+    "unit": "kWh",
+    "value": 71.3,
+    "date": "2020-11-3"
+  },
+  "lowestConsumption": {
+    "unit": "kWh",
+    "value": 6.1,
+    "date": "2020-11-15"
+  },
+  "peakDemand": {
+    "unit": "kW",
+    "value": 45.1,
+    "dateTime": "2021-01-22T15:25:27+07:00"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "today": {
+    "label": "Today",
+    "date": "2021-1-22",
+    "unit": "kWh",
+    "unitOfConsumptionByDay": {
+      "mon": 122.00,
+      "tue": 120.50,
+      "wed": 130.85,
+      "thu": 130.85,
+      "fri": 130.85,
+      "sat": 130.85,
+      "sun": 130.85
+    }
+  },
+  "lated": {
+    "label": "7 days ago",
+    "date": "2021-1-15",
+    "unitOfConsumptionByDay": "kWh",
+    "consumptionByDay": {
+      "mon": 122.00,
+      "tue": 120.40,
+      "wed": 121.35,
+      "thu": 130.15,
+      "fri": 138.25,
+      "sat": 137.35,
+      "sun": 110.55
+    }
+  },
+  "demandCharge": {
+    "unit": "kWh",
+    "value": 161.15
+  }
+}
